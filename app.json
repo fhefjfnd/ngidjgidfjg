@@ -1,0 +1,20 @@
+{
+    "name": "V2",
+    "description": "Deploy",
+    "keywords": [
+        "V2Ray"
+    ],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "314ae4ed-2974-4ae5-be42-a2aacbd53ffa"
+        },
+        "TUNNEL_TOKEN": {
+            "description": "Cloudflare Tunnel Token",
+            "required": false
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
